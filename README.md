@@ -1,7 +1,7 @@
-File String Finder by Shocker
+## File String Finder by Shocker
 This project is currently closed source, only executable download is available. You can do that [here](https://github.com/Shocker/soft_filestringfinder_/releases)
 
-**History:**
+## History
 
 v1.6:
 - Add option to open with Notepad++
